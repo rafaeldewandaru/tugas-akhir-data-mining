@@ -1,0 +1,12 @@
+PyMuPDF
+pandas
+numpy
+opencv-python
+matplotlib
+seaborn
+Pillow
+scikit-learn
+torch
+torchvision
+scipy
+tqdm
