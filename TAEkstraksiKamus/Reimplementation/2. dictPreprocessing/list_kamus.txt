@@ -1,0 +1,65 @@
+1. Kamus Makasar-Indonesia (1995)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+10. Kamus Bahasa Indonesia-Dayak Deah Edisi I (2013)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+11. Kamus Suwawa-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+12. Kamus Bahasa Indonesia-Kaidipang L-Z (2000)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+13. Kamus Bahasa Indonesia-Bahasa Sunda I (1993)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+14. Kamus Indonesia-Minangkabau II (1994)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+15. Kamus Bahasa Indonesia-Pasir (1997)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+16. Kamus Bahasa Indonesia Karo A-K (1998)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+17. Kamus Melayu Makasar-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+18. Kamus Bahasa Jawa-Bahasa Indonesia I (1993)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+19. Kamus Bahasa Indoensia-Melayu Riau (1997)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+2. Kamus Melayu-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+20. Kamus Bahasa Melayu Ambon-Indonesia (1998)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+21. Kamus Bahasa Indonesia-Sentani A-K (1999)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+22. Kamus Bahasa Gorontalo-Indonesia (1977)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+23. Kamus Dwibahasa Dayak Ngaju-Indonesia (2013)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+24. Kamus Minangkabau-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+25. Kamus Bahasa Indonesia Jambi L-Z (1997)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+26. Kamus Bahasa Indonesia-Bahasa Tonsea II (1996)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+27. Kamus Bahasa Indonesia-Saluan (2012)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+28. Kamus Bahasa Kutai-Bahasa Indonesia (2013)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+3. Kamus Bahasa Gorontalo-Indonesia (2001)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+31. Kamus Sumbawa-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+32. Kamus Melayu Langkat-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+33. Kamus Wolio Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+34. Kamus Bahasa Indonesia-Bali L-Z (1998)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+35. Kamus Bahasa Indonesia-Bahasa Gayo I (1996)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+36. Kamus Bahasa Indonesia-Kulawi (2012)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+37. Kamus Bahasa Indonesia Bakumpai II (1995)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+38. Kamus Bahasa Indonesia-Karo L-Z (1999)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+4. Kamus Bahasa Indonesia-Jambi A-K (1998)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+41. Kamus Bahasa Indonesia-Bali A-K (1997)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+42. Kamus Bahasa Indonesia-Bahasa Sunda II (1993)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+43. Kamus Indonesia-Minangkabau I (1994)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+44. Kamus Melayu Deli-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+45. Kamus Bahasa Indonesia-Bahasa Gayo II (1996)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+46. Kamus Bahasa Banjar Dialek Hulu-Indonesia (2008)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+48. Kamus Muna-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+5. Kamus Bahasa Indonesia-Bahasa Tonsea I (1996)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+50. Kamus Indonesia-Jawa Kuno (1992)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+51. Kamus Bahasa Bali Kuno-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+52. Kamus Ogan-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+54. Kamus Bahasa Indonesia Mentawai (1998)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+55. Kamus Bahasa Indonesia Bakumpai I (1995)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+56. Kamus Lampung-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+57. Kamus Bahasa Bugis-Indonesia (1977)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+58. Kamus Melayu Ketapang-Indonesia A-M (2010)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+60. Kamus Sunda-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+61. Kamus Banjar-Indonesia (1977)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+62. Kamus Umum Kerinci-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+63. Kamus Bahasa Indonesia-Lampung Dialek A (1999)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+66. Kamus Melayu Bali-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+67. Kamus Aceh Indonesia (A-L) (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+68. Kamus Dwibahasa Talaud - Indonesia (2018)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+71. Kamus dwibahasa Bugis-Indonesia (2017)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+77. Kamus Samawa-Indonesia Edisi 2 (2017)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+78. Kamus Tolaki-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+79. Kamus Bahasa Jawa-Bahasa Indonesia II (1993)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+8. Kamus Indonesia-Angkola (1995)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+84. Kamus Bahasa Biak - Indonesia (1977) -hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+85. Kamus Tondano-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+87. Kamus Bahasa Indonesia-Kaidipang (A-K) (1999)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+9. Kamus Manado-Indonesia (1985)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+91. Kamus Simalungun - Indonesia (edisi kedua) (2015)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv
+94. Kamus Bahasa Madura-Indonesia (1977)-hasil-ekstraksi-one_entry_from_JSON-font-posisi.csv

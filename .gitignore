@@ -1,8 +1,15 @@
 OCR Engine/
-PDF/
 TAEkstraksiKamus/\[Full\] Bentuk JSON/
 TAEkstraksiKamus/\[Full\] CSV JSON all information - Final/
 TAEkstraksiKamus/\[Full\] Raw CSV JSON all information/
+TAEkstraksiKamus/\[Full\] CSV One Entry JSON With Font + Posisi Approach/
+TAEkstraksiKamus/\[Full\] Daftar Kamus Ekstraksi
 TAEkstraksiKamus/CSV One Entry JSON With Font + Posisi Approach/
 TAEkstraksiKamus/CSV One Entry JSON With Font Approach/
 TAEkstraksiKamus/Ekstraksi/
+TAEkstraksiKamus/csvAnalysis/
+TAEkstraksiKamus/spellCheckDicts/
+TAEkstraksiKamus/archive_spellcheck_and_recompile.py
+TAEkstraksiKamus/compile_evaluation_results.py
+TAEkstraksiKamus/evaluationCSV/
+TAEkstraksiKamus/unused/
